@@ -1,0 +1,19 @@
+body {
+    font-family: 'Courier New', monospace;
+}
+
+h2 {
+    color: #FFD700;
+}
+
+h1 {
+    color: #FFD700;
+}
+
+.no {
+    color: #008000;
+}
+
+.yes {
+    color: #ff0000;
+}
